@@ -72,4 +72,10 @@ Para implementação em larga escala na empresa, este projeto suporta três mét
     3.  A equipe de TI configura o Google Admin ou Registro do Windows para forçar a instalação nas máquinas dos colaboradores.
 
 ---
+## 📄 Documentação Completa
+Para ver o manual técnico detalhado e o passo a passo ilustrado, acesse nossa página oficial:
+
+[![Ver Documentação](https://img.shields.io/badge/📖_Ler_Documentação-Acessar_Site-blue?style=for-the-badge)](https://dannyrodrygues.github.io/chrome-extensions-collection/)
+
+---
 *Desenvolvido por Daniella Rodrigues ☕*
