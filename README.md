@@ -1,6 +1,7 @@
-# 🚀 Suíte de Extensões Corporativas (Magalu & KaBuM!)
+# 🚀 Suíte de Extensões Corporativas
 
 > Solução desenvolvida para centralizar e agilizar o acesso às ferramentas internas corporativas.
+Estas extensões foram criadas pensando no meu atual ambiente corporativo.
 
 ## 💻 Ambiente e Compatibilidade
 
